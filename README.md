@@ -70,7 +70,10 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Contact
 
-For any queries or suggestions, please reach out to us at support@verifimp.io or join our community Discord server.
+For any queries or suggestions, please reach out to us at :
+
+tracywankio29@gmail.com
+njeriwangumo@gmail.com
 
 ---
 
